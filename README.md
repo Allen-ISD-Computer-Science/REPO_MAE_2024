@@ -1,4 +1,3 @@
-:MAE:
 # Vision
 * To succesfully create a program that helps to control the diffrent parts of MAE to work in unison.
 * We should work together with conscise communication.
