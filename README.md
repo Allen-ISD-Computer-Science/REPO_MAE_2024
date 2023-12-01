@@ -5,4 +5,4 @@ Suggest ideas that would help improve or speed alon procceses
 Do our part
 
 # Roles
-Tate Klesper: Release Mananger
+. Release Manager: Tate Klespe/@tate-klesper - [https://www.codermerlin.academy/users/tate-klesper/Digital%20Portfolio/index.html]
