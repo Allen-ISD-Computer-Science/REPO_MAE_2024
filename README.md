@@ -5,5 +5,5 @@ To succesfully create a program that helps to control
 . Do our part
 
 # Roles
-* Release Manager: Tate Klesper/[@tate-klesper](https://github.com/tate-klesper) [Digital Portfollio](https://www.codermerlin.academy/users/tate-klesper/Digital%20Portfolio/index.html)
-* Product Manager: Nathan Shadzeka/[@nathansh1](https://github.com/nathansh1)
+* Release Manager: Tate Klesper - [@tate-klesper](https://github.com/tate-klesper) - [Digital Portfollio](https://www.codermerlin.academy/users/tate-klesper/Digital%20Portfolio/index.html)
+* Product Manager: Nathan Shadzeka - [@nathansh1](https://github.com/nathansh1)
